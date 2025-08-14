@@ -51,10 +51,10 @@ QuizApp/
 
 📌 Usage
 
-Click Start Quiz to begin.
+1,Click Start Quiz to begin.
 
-Select your answer for each question.
+2,Select your answer for each question.
 
-View your score at the end of the quiz.
+3,View your score at the end of the quiz.
 
-Refresh to try again.
+4,Refresh to try again.
