@@ -18,12 +18,19 @@ Designed for quick learning, testing knowledge, and having fun.
 
 QuizApp/
 │
+
 ├── index.html # Main quiz page
+
 ├── css/
+
 │ ├── style.css # Styling for quiz layout and design
+
 │
+
 ├── js/
+
 │ ├── questions.js # Question data and options
+
 │ ├── script.js # Quiz logic, scoring, and event handling
 
 
